@@ -1,3 +1,5 @@
+--!Hejhej!--
+
 # JavaScript Introduktion (2 lektioner)
 
 * [Understanding the Github Flow](https://guides.github.com/introduction/flow/)
